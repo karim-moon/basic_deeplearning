@@ -6,4 +6,4 @@
 <p><code><a>https://unsplash.com/photos/Y84-eo8drzk</a> -> skyview<code></p>
 
 
-<p> referece page : <a>https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381</a></p>
+reference : <a href = 'https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381'>Samrat Sahoo's page from median</a>
