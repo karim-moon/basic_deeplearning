@@ -7,3 +7,6 @@
 
 
 reference : <a href = 'https://medium.com/analytics-vidhya/2d-convolution-using-python-numpy-43442ff5f381'>Samrat Sahoo's page from median</a>
+
+## GAN
+reference from GANs in action by Jakub Langr & Vladimir Bok
