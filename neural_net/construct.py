@@ -59,3 +59,6 @@ class constructor:
         input_error = error_weight_ih * hidden_error
 
         return hidden_error, input_error
+
+
+import
